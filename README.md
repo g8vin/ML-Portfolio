@@ -5,7 +5,7 @@ None of this is production ready per se, but it takes advantage of Git's reliabl
 
 ## ChordNamer
 
-This is a research notebook for a Python script that was ultimately deployed [here](https://github.com/e7mac/chord_namer) as part of [ChordNamer](http://chordnamer.link/), a project I helped submit to ISMIR 2024. 
+This is a research notebook for a Python script that was ultimately deployed [here](https://github.com/e7mac/chord_namer) as part of [ChordNamer](http://chordnamer.link/), a project I helped submit to [ISMIR 2024](https://ismir2024.ismir.net/). 
 
 ChordNamer takes a MusicXML file (a universal sheet music format between score editors), and returns a MusicXML file with chord names calculated for each measure. It works on an arbitrary number of staves, so even orchestral scores will work. It accounts for some edge cases like passing tones, and descending bass lines. ChordNamer was accepted for presentation as a late breaking demo. Demo video can be found [here](https://drive.google.com/file/d/1SjkC2pUtKQcSYCUphnJ5BIyWA6kb_ChM/view?usp=sharing).
 
